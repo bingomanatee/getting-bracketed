@@ -12,7 +12,7 @@
     "@wonderlandlabs/propper": "3.0.0",
     "formik": "2.1.2",
     "grommet": "2.9.0",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "pixi.js": "5.2.0",
     "react": "16.12.0",
     "react-dom": "16.12.0",
